@@ -1,7 +1,7 @@
 
 // import { apiKey } from "./secrets.js"
 
-const apiKey = ''
+const apiKey = 'cc0ad356'
 
 const searchTerm = 'batman'
 
